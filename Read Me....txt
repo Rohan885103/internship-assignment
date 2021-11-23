@@ -1,0 +1,14 @@
+TASK For UI Develeopment Internship / Job
+-----------------------------------------
+
+Technology to be used: HTML and CSS
+Web Page Layout: Responsive design
+Web Page Design: Refer to design.jpg file
+Fonts: Lato - Regular and bold (Attached)
+Images: Refer to "Res" folder
+Background: Mix of Image and gradient
+Icons: Download and crop relatable icons of your choice
+
+
+Please Note:
+Self inputs and design improvements would be appreciated.
